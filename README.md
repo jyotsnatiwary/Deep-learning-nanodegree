@@ -1,7 +1,6 @@
 # Deep-learning-nanodegree
 Projects done durinng udacity deep learning nanodegree course.
 
-  * Practiced 8 questions on recursion.
   * Learnt everything about perceptron and refreshed numpy lib.
   * Implemented multiclassification and softmax
   * Implemented Softmax vs sigmoid and multiclass cross entropy.
